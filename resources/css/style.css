@@ -5,8 +5,17 @@
 }
 
 .subtopics {
+    color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
     text-align: center;
 }
