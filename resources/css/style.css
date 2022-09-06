@@ -3,6 +3,7 @@ body {
 }
 
 .links {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aquamarine;
     font-size: 16px;
     text-align: center;
