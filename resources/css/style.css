@@ -33,7 +33,13 @@ body {
 }
 
 .images-and-videos {
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#campsite {
+    margin-bottom: 20px;
 }
 
 #copyright {
